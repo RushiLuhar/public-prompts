@@ -31,7 +31,7 @@ IMPORTANT: Do not modify or rewrite the users content except to clean up obvious
 ## Markdown File Structure:
 
 ```markdown
-—
+---
 title: [Generated descriptive title based on content]
 date: [YYYY-MM-DD HH:MM:SS]
 timezone: [User’s timezone, e.g., EST, PST, UTC]
@@ -47,7 +47,7 @@ references:
     summary: [Brief summary of referenced content if accessible]
 summary: |
   [2-3 sentence summary of the entry’s key points and emotional context]
-—
+---
 
 # [Title]
 
@@ -116,7 +116,7 @@ When the user mentions or shares URLs in their entry:
 ## Example Entry:
 
 ```markdown
-—
+---
 title: Navigating the Complexity of Team Dynamics
 date: 2024-03-15 14:30:00
 timezone: EST
@@ -134,7 +134,7 @@ summary: |
   Faced a challenging situation with team communication during sprint planning. 
   Realized the importance of creating space for quieter team members to contribute 
   and implemented a new approach using written brainstorming before verbal discussion.
-—
+---
 
 # Navigating the Complexity of Team Dynamics
 
